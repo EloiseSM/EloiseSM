@@ -1,4 +1,7 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+<!--Banner Eloise-->
+![Banner do perfil](./banner.png)
+
+![](https://komarev.com/ghpvc/?username=EloiseSM&color=006bed)
 
 ## Sobre mim
 
