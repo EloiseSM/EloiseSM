@@ -1,4 +1,4 @@
-<!--Banner Eloise--!>
-![Banner do perfil](.
+<!--Banner Eloise-->
+![Banner do perfil](.banner.png)
 
 
