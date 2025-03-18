@@ -1,4 +1,4 @@
 <!--Banner Eloise-->
-![Banner do perfil](.banner.png)
+![Banner do perfil](./banner.png)
 
 
