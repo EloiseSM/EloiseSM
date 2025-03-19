@@ -46,5 +46,5 @@
 
 ## Onde me encontrar
 
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Gmail Badge](https://img.shields.io/badge/-eloise.minozzo@amf.edu.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eloise.minozzo@amf.edu.br)](mailto:eloise.minozzo@amf.edu.br)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
