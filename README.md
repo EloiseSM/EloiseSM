@@ -1,5 +1,5 @@
 <!--Banner Eloise-->
-![Banner do perfil](./Beige & Black Geometric Technology LinkedIn Banner.png)
+![Banner do perfil](./top.png)
 
 ![](https://komarev.com/ghpvc/?username=EloiseSM&color=006bed)
 
